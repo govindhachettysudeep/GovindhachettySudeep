@@ -63,3 +63,7 @@ To obtain a challenging position as a **Java Spring Boot Developer** in a growth
 Thanks for visiting my profile! Looking forward to connecting and building something amazing together.
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=govindhachettysudeep&color=blue)
+
+
+## GitHub Stats
+![Govind's GitHub stats](https://github-readme-stats.vercel.app/api?username=govindhachettysudeep&show_icons=true&theme=radical)
